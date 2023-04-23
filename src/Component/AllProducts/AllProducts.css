@@ -1,0 +1,10 @@
+.productHeading {
+    margin: 2vmax auto;
+    width: 15vh;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.17);
+    padding: 2vmax;
+    color: rgba(0, 0, 0, 0.678);
+    font: 500 1.5vmax;
+    text-align: center;
+
+}
